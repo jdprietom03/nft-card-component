@@ -78,6 +78,7 @@ body {
 .image-wrapper img {
     border-radius: 6px;
     width: 100%;
+    display: block;
 }
 
 .card-title {
